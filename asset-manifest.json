@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bigcart/static/js/main.d25b4238.chunk.js",
+    "main.js.map": "/bigcart/static/js/main.d25b4238.chunk.js.map",
+    "runtime-main.js": "/bigcart/static/js/runtime-main.684997e1.js",
+    "runtime-main.js.map": "/bigcart/static/js/runtime-main.684997e1.js.map",
+    "static/js/2.7e50cdab.chunk.js": "/bigcart/static/js/2.7e50cdab.chunk.js",
+    "static/js/2.7e50cdab.chunk.js.map": "/bigcart/static/js/2.7e50cdab.chunk.js.map",
+    "index.html": "/bigcart/index.html",
+    "static/js/2.7e50cdab.chunk.js.LICENSE.txt": "/bigcart/static/js/2.7e50cdab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.684997e1.js",
+    "static/js/2.7e50cdab.chunk.js",
+    "static/js/main.d25b4238.chunk.js"
+  ]
+}
